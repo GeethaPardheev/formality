@@ -1,2 +1,1 @@
-# formality
-Ensemble BERT based models for formality classification
+# Ensemble BERT based models for formality classification
