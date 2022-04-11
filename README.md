@@ -6,5 +6,5 @@ Models are trained on two different datasets:
 • Formality Corpus (https://aclanthology.org/Q16-1005.pdf)  
 
 The best performing ensemble models based on accuracy on validation set of GYAFC corpus:  
-• BERT + RoBERTa - 94.72%  
-• RoBERTa + ELECTRA - 94.70%
+• RoBERTa + ELECTRA - 94.91%  
+• BERT + RoBERTa - 94.70%  
